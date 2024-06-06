@@ -11,9 +11,7 @@ CSS: Styling of the webpage.<br>
 JavaScript: Interactivity of the webpage.<br>
 
 **Prerequisites**
-To run this project, you only need a web browser.
-
-**Installation**
+To run this project, you only need a web browser.<br>
 1] Clone the repository: git clone https://github.com/yourusername/light-switch-app.git.<br>
 2] Navigate to the project directory.<br>
 3] Open the index.html file in your web browser.<br>
