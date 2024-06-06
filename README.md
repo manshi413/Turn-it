@@ -1,14 +1,14 @@
-# Turn-it
+# Turn-it<br>
 This simple web application demonstrates how to switch a bulb on and off using HTML, CSS, and JavaScript. The project is designed for beginners who want to learn how to manipulate the DOM and handle events with JavaScript.
 
-**Features**
-Interactive Button: Click to switch the bulb on and off.
-Dynamic Styling: The bulb's appearance changes based on its state (on or off).
+**Features**<br>
+Interactive Button: Click to switch the bulb on and off.<br>
+Dynamic Styling: The bulb's appearance changes based on its state (on or off).<br>
 
-**Technologies Used**
-HTML: Structure of the webpage.
-CSS: Styling of the webpage.
-JavaScript: Interactivity of the webpage.
+**Technologies Used**<br>
+HTML: Structure of the webpage.<br>
+CSS: Styling of the webpage.<br>
+JavaScript: Interactivity of the webpage.<br>
 
 **Prerequisites**
 To run this project, you only need a web browser.
