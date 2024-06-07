@@ -1,1 +1,36 @@
 
+#bulb{
+            display: flex;
+            justify-content: center;
+            margin: 5rem;
+        }
+        body{
+            background-color:darkblue;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        #img{
+            border-radius: 50%;
+            border: 10px dashed yellow;
+        }
+        .button{
+            display: flex;
+            justify-content: center;
+        }
+        #button2,#button1{
+            background-color: aqua;
+            color: black;
+            font-weight: bold;
+            border: 5px double black;
+            padding: 10px;
+            
+        }
+        #button1:hover{
+            cursor: pointer;
+            border: 6px double black;
+            background-color: yellow;
+        }
+        #button2:hover{
+            cursor: pointer;
+            border: 6px double black;
+            background-color: gray;
+        }
