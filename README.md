@@ -8,7 +8,6 @@ Dynamic Styling: The bulb's appearance changes based on its state (on or off).<b
 **Technologies Used**<br>
 HTML: Structure of the webpage.<br>
 CSS: Styling of the webpage.<br>
-JavaScript: Interactivity of the webpage.<br>
 
 **Prerequisites**
 To run this project, you only need a web browser.<br>
